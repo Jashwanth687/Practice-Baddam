@@ -51,3 +51,17 @@ for a one-week trip.
 > "When you said you looked a mess  
 > I whispered underneath my breath"  
 *— Ed Sheeran*
+
+---
+
+## Code Fencing Example
+
+The following Python code snippet creates a new dictionary by sorting an existing
+dictionary based on its values in ascending order. This is useful when you want to
+organize data by value instead of by key.
+
+```python
+new_dict = {k: v for k, v in sorted(d.items(), key=lambda item: item[1])}
+
+
+### Follow Link: https://python.pieces.cloud/?p=6f3c4aa83f
