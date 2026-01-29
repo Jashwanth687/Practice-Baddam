@@ -20,3 +20,5 @@ OneRepublic blends pop hooks with real emotional depth.Ryan Tedder’s voice car
 - The Hobbit  
 - Harry Potter and the Sorcerer's Stone  
 - The Alchemist 
+
+![Waikiki Beach in Hawaii](hawaii-1.jpg)
