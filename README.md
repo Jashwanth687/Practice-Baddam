@@ -38,3 +38,16 @@ for a one-week trip.
 | Italy        | History and food           | 4,900 miles       | $2,200            |
 | Iceland     | Natural landscapes         | 2,800 miles       | $2,000            |
 | New Zealand | Hiking and scenery         | 8,900 miles       | $3,000            |
+
+
+-----
+
+## Favorite Song Lyrics
+
+> "Lights will guide you home  
+> And ignite your bones"  
+*— Chris Martin*
+
+> "When you said you looked a mess  
+> I whispered underneath my breath"  
+*— Ed Sheeran*
